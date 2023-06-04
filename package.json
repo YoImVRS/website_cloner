@@ -1,0 +1,19 @@
+{
+  "name": "UdyatCloner",
+  "version": "v1",
+  "description": "Simple script to clone site and all files from site in NodeJS",
+  "main": "udyat.js",
+  "scripts": {
+    "start": "node udyat.js",
+    "debug": "node --inspect-brk udyat.js"
+  },
+  "author": "ottersec",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ottersek"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "figlet": "^1.6.0"
+  }
+}
