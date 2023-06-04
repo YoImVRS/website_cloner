@@ -24,8 +24,13 @@ To use UdyatCloner, follow these steps:
 npm start
 ```
 
-
 The script will guide you through an interactive process to input the URL of the website you want to clone, select whether to save all the files, and specify the destination path.
+
+## Demo
+
+![image](https://github.com/ottersek/website_cloner/assets/121310374/1e9cf2c0-951c-42b9-9905-7a7aec1021da)
+![image](https://github.com/ottersek/website_cloner/assets/121310374/8e2606c5-02bc-4d3c-9b96-4db18ce9c6ad)
+
 
 ## Contribution
 
